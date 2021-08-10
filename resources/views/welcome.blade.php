@@ -1,3 +1,4 @@
-@extends('layout/master')
 
-<h1>HOLA</h1>
+<x-header/>
+<x-navbar/>
+<x-footer/>
